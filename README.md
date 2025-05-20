@@ -28,4 +28,4 @@ password : Radnik123
 - Za simulaciju plaćanja putem paypala koristite sledeći nalog : 
 gmail : sb-qbg43i33181803@personal.example.com
 password : NVU,2bi-
-
+.
